@@ -186,20 +186,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -432,7 +432,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -2498,20 +2498,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -2744,7 +2744,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -4810,20 +4810,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -5056,7 +5056,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -7122,20 +7122,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -7368,7 +7368,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -9434,20 +9434,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -9680,7 +9680,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -11746,20 +11746,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -11992,7 +11992,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -14058,20 +14058,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -14304,7 +14304,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -16370,20 +16370,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/netstandard2.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -16616,7 +16616,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -18669,20 +18669,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -18904,7 +18904,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -19160,20 +19160,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -19395,7 +19395,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -19651,20 +19651,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -19886,7 +19886,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -20142,20 +20142,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -20377,7 +20377,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -20633,20 +20633,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -20868,7 +20868,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -21124,20 +21124,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -21359,7 +21359,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -21615,20 +21615,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -21850,7 +21850,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -22106,20 +22106,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-ios10.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -22341,7 +22341,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -22597,20 +22597,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -22832,7 +22832,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -23182,20 +23182,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -23417,7 +23417,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -23680,20 +23680,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -23915,7 +23915,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -24178,20 +24178,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -24413,7 +24413,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -24676,20 +24676,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -24911,7 +24911,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -25174,20 +25174,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -25409,7 +25409,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -25669,20 +25669,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -25904,7 +25904,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -26167,20 +26167,20 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-maccatalyst13.1/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -26402,7 +26402,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -26704,20 +26704,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -26967,7 +26967,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -27444,20 +27444,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -27707,7 +27707,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -28071,20 +28071,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -28334,7 +28334,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -28698,20 +28698,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -28961,7 +28961,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -29325,20 +29325,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -29588,7 +29588,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -29952,20 +29952,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -30215,7 +30215,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -30576,20 +30576,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -30839,7 +30839,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -31206,20 +31206,20 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72",
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "type": "package",
         "dependencies": {
-          "Microsoft.Maui.Controls.Core": "8.0.82",
-          "Microsoft.Maui.Controls.Xaml": "8.0.82"
+          "Microsoft.Maui.Controls.Core": "8.0.72",
+          "Microsoft.Maui.Controls.Xaml": "8.0.72"
         },
         "build": {
           "buildTransitive/net6.0-windows10.0.17763.0/Microsoft.Maui.Controls.Build.Tasks.props": {},
@@ -31469,7 +31469,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {
+      "Microsoft.Maui.Resizetizer/8.0.72": {
         "type": "package",
         "build": {
           "buildTransitive/Microsoft.Maui.Resizetizer.props": {},
@@ -32038,10 +32038,10 @@
         "microsoft.io.recyclablememorystream.nuspec"
       ]
     },
-    "Microsoft.Maui.Controls/8.0.82": {
-      "sha512": "wUNQRAvzyhZjD5XLowTcU4OFQ6Tz2bdHz7ZRenKdChqtrxfSltiA84F/aN+M2BwmfVxuEp3zD2Y31paYFK8n1Q==",
+    "Microsoft.Maui.Controls/8.0.72": {
+      "sha512": "fbbdhcttsYnUPCaqKI076H/E4IFG4IkDe060k07SUWxzzNYwKQYXFFA4kY+1tElkz9Bu4ALhk9WYXJsV5BZNdQ==",
       "type": "package",
-      "path": "microsoft.maui.controls/8.0.82",
+      "path": "microsoft.maui.controls/8.0.72",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -32049,14 +32049,14 @@
         "LICENSE.TXT",
         "README.md",
         "THIRD-PARTY-NOTICES.TXT",
-        "microsoft.maui.controls.8.0.82.nupkg.sha512",
+        "microsoft.maui.controls.8.0.72.nupkg.sha512",
         "microsoft.maui.controls.nuspec"
       ]
     },
-    "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
-      "sha512": "FLtYThqc5tQ7TnNuInJzNsK+jtg2ecjqoOWFYCCWASz4WJn8tN60nyP0drS6wTBj8CJLdrDzr3gxkfJpSh4cng==",
+    "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
+      "sha512": "lhvI4OeezTmZo+xbpqPKvJ7fqdE/+Nv0EeCoA8JpQE468Hnf4KyPQdz6Rtd4bg+DXbhhkio0SSn9yNdDgJYO1g==",
       "type": "package",
-      "path": "microsoft.maui.controls.build.tasks/8.0.82",
+      "path": "microsoft.maui.controls.build.tasks/8.0.72",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -32135,7 +32135,7 @@
         "buildTransitive/netstandard2.0/zh-HK/Microsoft.Maui.Controls.Build.Tasks.resources.dll",
         "buildTransitive/netstandard2.0/zh-Hans/Microsoft.Maui.Controls.Build.Tasks.resources.dll",
         "buildTransitive/netstandard2.0/zh-Hant/Microsoft.Maui.Controls.Build.Tasks.resources.dll",
-        "microsoft.maui.controls.build.tasks.8.0.82.nupkg.sha512",
+        "microsoft.maui.controls.build.tasks.8.0.72.nupkg.sha512",
         "microsoft.maui.controls.build.tasks.nuspec"
       ]
     },
@@ -32936,10 +32936,10 @@
         "microsoft.maui.graphics.win2d.winui.desktop.nuspec"
       ]
     },
-    "Microsoft.Maui.Resizetizer/8.0.82": {
-      "sha512": "TlWHxNzHvOpILEP3W+8asTaLZAlkISIPFJHY5/ckD9NuHu1vAb2YNsIVkjRe5YxthJQShTbbRFtzhf4sHryp9g==",
+    "Microsoft.Maui.Resizetizer/8.0.72": {
+      "sha512": "7MmYYGaA6Hv9mca4+k9B9lJ+fWWO5wytP5PxOwLuC5w6p7J5+w8q7JdgtltqeY677JSQRCNxChgMou1Zy4nzzA==",
       "type": "package",
-      "path": "microsoft.maui.resizetizer/8.0.82",
+      "path": "microsoft.maui.resizetizer/8.0.72",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -32990,7 +32990,7 @@
         "buildTransitive/x64/libSkiaSharp.so",
         "buildTransitive/x86/libHarfBuzzSharp.dll",
         "buildTransitive/x86/libSkiaSharp.dll",
-        "microsoft.maui.resizetizer.8.0.82.nupkg.sha512",
+        "microsoft.maui.resizetizer.8.0.72.nupkg.sha512",
         "microsoft.maui.resizetizer.nuspec"
       ]
     },
@@ -36156,51 +36156,51 @@
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls >= 8.0.82",
+      "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.90",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
       "sqlite-net-pcl >= 1.9.172"
     ],
     "net8.0-ios17.5": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls >= 8.0.82",
+      "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.90",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
       "sqlite-net-pcl >= 1.9.172"
     ],
     "net8.0-maccatalyst17.5": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls >= 8.0.82",
+      "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.90",
       "Microsoft.NET.ILLink.Tasks >= 8.0.8",
       "sqlite-net-pcl >= 1.9.172"
     ],
     "net8.0-windows10.0.19041": [
       "Microsoft.Extensions.Logging.Debug >= 8.0.0",
-      "Microsoft.Maui.Controls >= 8.0.82",
+      "Microsoft.Maui.Controls >= 8.0.72",
       "Microsoft.Maui.Controls.Compatibility >= 8.0.90",
       "sqlite-net-pcl >= 1.9.172"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\megam\\.nuget\\packages\\": {},
+    "C:\\Users\\Jemsci\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\VisualStudioProyectos\\LoginApp\\LoginApp\\LoginApp.csproj",
+      "projectUniqueName": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\LoginApp.csproj",
       "projectName": "LoginApp",
-      "projectPath": "E:\\VisualStudioProyectos\\LoginApp\\LoginApp\\LoginApp.csproj",
-      "packagesPath": "C:\\Users\\megam\\.nuget\\packages\\",
-      "outputPath": "E:\\VisualStudioProyectos\\LoginApp\\LoginApp\\obj\\",
+      "projectPath": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\LoginApp.csproj",
+      "packagesPath": "C:\\Users\\Jemsci\\.nuget\\packages\\",
+      "outputPath": "D:\\Visual studio proyectos\\Nueva carpeta\\Entregable_2\\LoginApp\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\megam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Jemsci\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -36254,7 +36254,7 @@
           },
           "Microsoft.Maui.Controls": {
             "target": "Package",
-            "version": "[8.0.82, )"
+            "version": "[8.0.72, )"
           },
           "Microsoft.Maui.Controls.Compatibility": {
             "target": "Package",
@@ -36301,7 +36301,7 @@
           },
           "Microsoft.Maui.Controls": {
             "target": "Package",
-            "version": "[8.0.82, )"
+            "version": "[8.0.72, )"
           },
           "Microsoft.Maui.Controls.Compatibility": {
             "target": "Package",
@@ -36348,7 +36348,7 @@
           },
           "Microsoft.Maui.Controls": {
             "target": "Package",
-            "version": "[8.0.82, )"
+            "version": "[8.0.72, )"
           },
           "Microsoft.Maui.Controls.Compatibility": {
             "target": "Package",
@@ -36396,7 +36396,7 @@
           },
           "Microsoft.Maui.Controls": {
             "target": "Package",
-            "version": "[8.0.82, )"
+            "version": "[8.0.72, )"
           },
           "Microsoft.Maui.Controls.Compatibility": {
             "target": "Package",

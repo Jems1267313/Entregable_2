@@ -10,7 +10,7 @@
       "LoginApp/1.0": {
         "dependencies": {
           "Microsoft.Extensions.Logging.Debug": "8.0.0",
-          "Microsoft.Maui.Controls": "8.0.82",
+          "Microsoft.Maui.Controls": "8.0.72",
           "Microsoft.Maui.Controls.Compatibility": "8.0.90",
           "sqlite-net-pcl": "1.9.172",
           "runtimepack.Microsoft.Windows.SDK.NET.Ref": "10.0.19041.34"
@@ -154,15 +154,15 @@
           }
         }
       },
-      "Microsoft.Maui.Controls/8.0.82": {
+      "Microsoft.Maui.Controls/8.0.72": {
         "dependencies": {
-          "Microsoft.Maui.Controls.Build.Tasks": "8.0.82",
+          "Microsoft.Maui.Controls.Build.Tasks": "8.0.72",
           "Microsoft.Maui.Controls.Core": "8.0.90",
           "Microsoft.Maui.Controls.Xaml": "8.0.90",
-          "Microsoft.Maui.Resizetizer": "8.0.82"
+          "Microsoft.Maui.Resizetizer": "8.0.72"
         }
       },
-      "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+      "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
         "dependencies": {
           "Microsoft.Maui.Controls.Core": "8.0.90",
           "Microsoft.Maui.Controls.Xaml": "8.0.90"
@@ -372,7 +372,7 @@
           }
         }
       },
-      "Microsoft.Maui.Resizetizer/8.0.82": {},
+      "Microsoft.Maui.Resizetizer/8.0.72": {},
       "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {},
       "Microsoft.WindowsAppSDK/1.5.240802000": {
         "dependencies": {
@@ -589,19 +589,19 @@
       "path": "microsoft.io.recyclablememorystream/3.0.1",
       "hashPath": "microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512"
     },
-    "Microsoft.Maui.Controls/8.0.82": {
+    "Microsoft.Maui.Controls/8.0.72": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-wUNQRAvzyhZjD5XLowTcU4OFQ6Tz2bdHz7ZRenKdChqtrxfSltiA84F/aN+M2BwmfVxuEp3zD2Y31paYFK8n1Q==",
-      "path": "microsoft.maui.controls/8.0.82",
-      "hashPath": "microsoft.maui.controls.8.0.82.nupkg.sha512"
+      "sha512": "sha512-fbbdhcttsYnUPCaqKI076H/E4IFG4IkDe060k07SUWxzzNYwKQYXFFA4kY+1tElkz9Bu4ALhk9WYXJsV5BZNdQ==",
+      "path": "microsoft.maui.controls/8.0.72",
+      "hashPath": "microsoft.maui.controls.8.0.72.nupkg.sha512"
     },
-    "Microsoft.Maui.Controls.Build.Tasks/8.0.82": {
+    "Microsoft.Maui.Controls.Build.Tasks/8.0.72": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-FLtYThqc5tQ7TnNuInJzNsK+jtg2ecjqoOWFYCCWASz4WJn8tN60nyP0drS6wTBj8CJLdrDzr3gxkfJpSh4cng==",
-      "path": "microsoft.maui.controls.build.tasks/8.0.82",
-      "hashPath": "microsoft.maui.controls.build.tasks.8.0.82.nupkg.sha512"
+      "sha512": "sha512-lhvI4OeezTmZo+xbpqPKvJ7fqdE/+Nv0EeCoA8JpQE468Hnf4KyPQdz6Rtd4bg+DXbhhkio0SSn9yNdDgJYO1g==",
+      "path": "microsoft.maui.controls.build.tasks/8.0.72",
+      "hashPath": "microsoft.maui.controls.build.tasks.8.0.72.nupkg.sha512"
     },
     "Microsoft.Maui.Controls.Compatibility/8.0.90": {
       "type": "package",
@@ -652,12 +652,12 @@
       "path": "microsoft.maui.graphics.win2d.winui.desktop/8.0.90",
       "hashPath": "microsoft.maui.graphics.win2d.winui.desktop.8.0.90.nupkg.sha512"
     },
-    "Microsoft.Maui.Resizetizer/8.0.82": {
+    "Microsoft.Maui.Resizetizer/8.0.72": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-TlWHxNzHvOpILEP3W+8asTaLZAlkISIPFJHY5/ckD9NuHu1vAb2YNsIVkjRe5YxthJQShTbbRFtzhf4sHryp9g==",
-      "path": "microsoft.maui.resizetizer/8.0.82",
-      "hashPath": "microsoft.maui.resizetizer.8.0.82.nupkg.sha512"
+      "sha512": "sha512-7MmYYGaA6Hv9mca4+k9B9lJ+fWWO5wytP5PxOwLuC5w6p7J5+w8q7JdgtltqeY677JSQRCNxChgMou1Zy4nzzA==",
+      "path": "microsoft.maui.resizetizer/8.0.72",
+      "hashPath": "microsoft.maui.resizetizer.8.0.72.nupkg.sha512"
     },
     "Microsoft.Windows.SDK.BuildTools/10.0.22621.756": {
       "type": "package",
